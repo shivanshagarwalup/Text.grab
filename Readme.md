@@ -1,0 +1,1 @@
+Clipboard to send and receive text between devices.
